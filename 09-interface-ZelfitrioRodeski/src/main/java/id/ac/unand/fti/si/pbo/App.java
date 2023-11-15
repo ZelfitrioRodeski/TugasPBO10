@@ -17,9 +17,9 @@ public class App {
    int totalbayarmembergold = membergold1.hitungTotalBayar(1000000); 
 
         //Menampilkan total bayar
-   System.out.println ("total ongkir member silver: " + totalbayarmembersilver);
-   System.out.println ("total ongkir member reguler: " + totalbayarmemberreguler);
-   System.out.println ("total ongkir member platinum: " + totalbayarmemberplatinum);
-   System.out.println ("total ongkir member gold: " + totalbayarmembergold);
+   System.out.println ("total bayar member silver: " + totalbayarmembersilver);
+   System.out.println ("total bayar member reguler: " + totalbayarmemberreguler);
+   System.out.println ("total bayar member platinum: " + totalbayarmemberplatinum);
+   System.out.println ("total bayar member gold: " + totalbayarmembergold);
 }
 }
